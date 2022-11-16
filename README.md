@@ -10,7 +10,7 @@ No arquivo package.json inserir na parte de script o executor 'Jest'</br>
   "scripts": {</br>
     "test": "Jest"</br>
   },</br>
-Criar arquivo - Pokemon.test.json</br>
+Criar arquivo - Pokemon.test.js</br>
 Colar código</br>
 Na pasta, via terminal, executar o comando 'npm test'</br>
 
