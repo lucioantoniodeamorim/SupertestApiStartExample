@@ -6,10 +6,10 @@ Abrir um terminal e navegar até a pasta</br>
 Na pasta, via terminal, executar o comando 'npm init'</br>
 Na pasta, via terminal, executar o comando 'npm install jest supertest'</br>
 No arquivo package.json inserir na parte de script o executor 'Jest'</br>
+Abrir a pasta no editor (VSC)</br>
   "scripts": {</br>
     "test": "Jest"</br>
   },</br>
-Abrir a pasta no editor (VSC)</br>
 Criar arquivo - Pokemon.test.json</br>
 Colar código</br>
 Na pasta, via terminal, executar o comando 'npm test'</br>
